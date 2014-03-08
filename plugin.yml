@@ -1,0 +1,15 @@
+name: aKitPvP
+main: aardvarkpvp.com.kitpvp.Main
+version: 1.0
+author: ByVerza
+commands:
+  freezer:
+  ghost:
+  mario:
+  pvp:
+  kits:
+    aliases: [mykits]
+  balance:
+    aliases: [bal, credits]
+  help:
+    aliases: [hel]
